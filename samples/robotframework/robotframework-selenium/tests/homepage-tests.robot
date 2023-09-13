@@ -8,7 +8,6 @@ Verify Presence Of Header Links
     ...    - testrail_case_field: refs:TR-1
     ...    - testrail_case_field: priority_id:2
     ...    - testrail_result_field: custom_environment:qa
-    ...    - testrail_result_field: custom_dropdown_1:3
     Open TestRail Homepage
     Verify Header Main Links
     
